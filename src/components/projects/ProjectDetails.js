@@ -7,7 +7,7 @@ const ProjectDetails = (props) => {
     // const id = props.match.params.id
     
     const { project } = props
-    console.log(project);
+    // console.log(project);
 
     if( project) {
         return (
